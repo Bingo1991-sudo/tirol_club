@@ -1,0 +1,36 @@
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-Bold.eot#') format('eot'), 
+	     url('SourceSansPro-Bold.ttf') format('truetype');
+	font-weight: bold;	 
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-Regular.eot#') format('eot'), 
+	     url('SourceSansPro-Regular.ttf') format('truetype');
+	font-weight: normal;	 
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-SemiBold.eot#') format('eot'), 
+	     url('SourceSansPro-SemiBold.ttf') format('truetype');
+	font-weight: 600;	 
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-SemiBold.eot#') format('eot'), 
+	     url('SourceSansPro-SemiBold.ttf') format('truetype');
+	font-weight: 500;	 
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-Light.eot#') format('eot'), 
+	     url('SourceSansPro-Light.ttf') format('truetype');
+	font-weight: 400;	 
+}
+@font-face {
+	font-family: 'Source Sans Pro';
+	src: url('SourceSansPro-ExtraLight..eot#') format('eot'), 
+	     url('SourceSansPro-ExtraLight..ttf') format('truetype');
+	font-weight: 300;	 
+}
